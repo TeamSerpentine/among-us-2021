@@ -1,0 +1,48 @@
+{
+ "ChatMessages": [  {
+    "ID": 0,
+    "RED": 106,
+    "GREEN": 255,
+    "BLUE": 87,
+    "COLORNAME": "LIME",
+    "NAME": "",
+    "MESSAGE": "where?"
+  },
+  {
+    "ID": 1,
+    "RED": 226,
+    "GREEN": 226,
+    "BLUE": 238,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "skip"
+  },
+  {
+    "ID": 2,
+    "RED": 40,
+    "GREEN": 139,
+    "BLUE": 58,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "you"
+  },
+  {
+    "ID": 3,
+    "RED": 8,
+    "GREEN": 8,
+    "BLUE": 8,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": ""
+  },
+  {
+    "ID": 4,
+    "RED": 115,
+    "GREEN": 253,
+    "BLUE": 94,
+    "COLORNAME": "LIME",
+    "NAME": "",
+    "MESSAGE": "ok"
+  }
+  ]
+}

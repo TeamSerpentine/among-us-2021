@@ -1,0 +1,75 @@
+{
+ "ChatMessages": [  {
+    "ID": 0,
+    "RED": 72,
+    "GREEN": 72,
+    "BLUE": 72,
+    "COLORNAME": "BLACK",
+    "NAME": "",
+    "MESSAGE": "where"
+  },
+  {
+    "ID": 1,
+    "RED": 158,
+    "GREEN": 4,
+    "BLUE": 19,
+    "COLORNAME": "RED",
+    "NAME": "",
+    "MESSAGE": "WHERE"
+  },
+  {
+    "ID": 2,
+    "RED": 66,
+    "GREEN": 67,
+    "BLUE": 72,
+    "COLORNAME": "BLACK",
+    "NAME": "",
+    "MESSAGE": "white is safe"
+  },
+  {
+    "ID": 3,
+    "RED": 70,
+    "GREEN": 71,
+    "BLUE": 76,
+    "COLORNAME": "BLACK",
+    "NAME": "",
+    "MESSAGE": "he did asteroid"
+  },
+  {
+    "ID": 4,
+    "RED": 98,
+    "GREEN": 39,
+    "BLUE": 161,
+    "COLORNAME": "PURPLE",
+    "NAME": "",
+    "MESSAGE": "kahverengi sabotaj yapkinda kosmadi"
+  },
+  {
+    "ID": 5,
+    "RED": 98,
+    "GREEN": 39,
+    "BLUE": 161,
+    "COLORNAME": "PURPLE",
+    "NAME": "",
+    "MESSAGE": "kahverengi sabotaj yapidnda kosmadi"
+  },
+  {
+    "ID": 6,
+    "RED": 158,
+    "GREEN": 2,
+    "BLUE": 27,
+    "COLORNAME": "RED",
+    "NAME": "",
+    "MESSAGE": "| OONT KNOW"
+  },
+  {
+    "ID": 7,
+    "RED": 163,
+    "GREEN": 1,
+    "BLUE": 27,
+    "COLORNAME": "RED",
+    "NAME": "",
+    "MESSAGE": "| DONT KNOW"
+  }
+  ]
+}

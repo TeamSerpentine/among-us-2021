@@ -1,0 +1,66 @@
+{
+ "ChatMessages": [  {
+    "ID": 0,
+    "RED": 89,
+    "GREEN": 255,
+    "BLUE": 219,
+    "COLORNAME": "CYAN",
+    "NAME": "",
+    "MESSAGE": "RED"
+  },
+  {
+    "ID": 1,
+    "RED": 98,
+    "GREEN": 40,
+    "BLUE": 161,
+    "COLORNAME": "PURPLE",
+    "NAME": "",
+    "MESSAGE": "Who?"
+  },
+  {
+    "ID": 2,
+    "RED": 69,
+    "GREEN": 66,
+    "BLUE": 81,
+    "COLORNAME": "BLACK",
+    "NAME": "",
+    "MESSAGE": "orange and green safe"
+  },
+  {
+    "ID": 3,
+    "RED": 97,
+    "GREEN": 41,
+    "BLUE": 176,
+    "COLORNAME": "PURPLE",
+    "NAME": "",
+    "MESSAGE": "ok"
+  },
+  {
+    "ID": 4,
+    "RED": 37,
+    "GREEN": 131,
+    "BLUE": 61,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "Selfreport?"
+  },
+  {
+    "ID": 5,
+    "RED": 9,
+    "GREEN": 15,
+    "BLUE": 28,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": ""
+  },
+  {
+    "ID": 6,
+    "RED": 71,
+    "GREEN": 69,
+    "BLUE": 75,
+    "COLORNAME": "BLACK",
+    "NAME": "",
+    "MESSAGE": "orange and green safe “"
+  }
+  ]
+}

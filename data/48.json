@@ -1,0 +1,323 @@
+{
+ "ChatMessages": [  {
+    "ID": 0,
+    "RED": 240,
+    "GREEN": 255,
+    "BLUE": 108,
+    "FRAMECOUNT": 1453,
+    "COLORNAME": "YELLOW",
+    "NAME": "",
+    "MESSAGE": "selam"
+  },
+  {
+    "ID": 1,
+    "RED": 101,
+    "GREEN": 254,
+    "BLUE": 214,
+    "FRAMECOUNT": 1453,
+    "COLORNAME": "CYAN",
+    "NAME": " ",
+    "MESSAGE": ""
+  },
+  {
+    "ID": 2,
+    "RED": 207,
+    "GREEN": 126,
+    "BLUE": 51,
+    "FRAMECOUNT": 1695,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": "nerde"
+  },
+  {
+    "ID": 3,
+    "RED": 38,
+    "GREEN": 140,
+    "BLUE": 56,
+    "FRAMECOUNT": 2058,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "nerde"
+  },
+  {
+    "ID": 4,
+    "RED": 217,
+    "GREEN": 226,
+    "BLUE": 237,
+    "FRAMECOUNT": 2058,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "red"
+  },
+  {
+    "ID": 5,
+    "RED": 220,
+    "GREEN": 224,
+    "BLUE": 239,
+    "FRAMECOUNT": 2058,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "kirmizi"
+  },
+  {
+    "ID": 6,
+    "RED": 215,
+    "GREEN": 121,
+    "BLUE": 36,
+    "FRAMECOUNT": 2421,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": ""
+  },
+  {
+    "ID": 7,
+    "RED": 220,
+    "GREEN": 224,
+    "BLUE": 237,
+    "FRAMECOUNT": 2421,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "1000"
+  },
+  {
+    "ID": 8,
+    "RED": 163,
+    "GREEN": 8,
+    "BLUE": 29,
+    "FRAMECOUNT": 2421,
+    "COLORNAME": "RED",
+    "NAME": "",
+    "MESSAGE": "ben degiim oglummm alooo"
+  },
+  {
+    "ID": 9,
+    "RED": 157,
+    "GREEN": 11,
+    "BLUE": 28,
+    "FRAMECOUNT": 2542,
+    "COLORNAME": "RED",
+    "NAME": "",
+    "MESSAGE": "ben degiim"
+  },
+  {
+    "ID": 10,
+    "RED": 15,
+    "GREEN": 9,
+    "BLUE": 7,
+    "FRAMECOUNT": 4478,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": ""
+  },
+  {
+    "ID": 11,
+    "RED": 226,
+    "GREEN": 224,
+    "BLUE": 236,
+    "FRAMECOUNT": 4599,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "ack yesi"
+  },
+  {
+    "ID": 12,
+    "RED": 218,
+    "GREEN": 226,
+    "BLUE": 231,
+    "FRAMECOUNT": 4720,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "ack yesil"
+  },
+  {
+    "ID": 13,
+    "RED": 39,
+    "GREEN": 137,
+    "BLUE": 60,
+    "FRAMECOUNT": 4720,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "gene ne oldu"
+  },
+  {
+    "ID": 14,
+    "RED": 215,
+    "GREEN": 220,
+    "BLUE": 230,
+    "FRAMECOUNT": 4841,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "sabotaj yapmadi"
+  },
+  {
+    "ID": 15,
+    "RED": 215,
+    "GREEN": 129,
+    "BLUE": 40,
+    "FRAMECOUNT": 4841,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": "bence beyaz"
+  },
+  {
+    "ID": 16,
+    "RED": 37,
+    "GREEN": 136,
+    "BLUE": 50,
+    "FRAMECOUNT": 4841,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "sensin dimi"
+  },
+  {
+    "ID": 17,
+    "RED": 39,
+    "GREEN": 136,
+    "BLUE": 59,
+    "FRAMECOUNT": 5083,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "bencede beyaz"
+  },
+  {
+    "ID": 18,
+    "RED": 214,
+    "GREEN": 125,
+    "BLUE": 43,
+    "FRAMECOUNT": 5325,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": "az once bos yere kirmiziyi suciadi"
+  },
+  {
+    "ID": 19,
+    "RED": 218,
+    "GREEN": 228,
+    "BLUE": 234,
+    "FRAMECOUNT": 5325,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "ve bekledi sabotaj acti sonra yapmadi"
+  },
+  {
+    "ID": 20,
+    "RED": 228,
+    "GREEN": 223,
+    "BLUE": 233,
+    "FRAMECOUNT": 6535,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "me a a a"
+  },
+  {
+    "ID": 21,
+    "RED": 47,
+    "GREEN": 131,
+    "BLUE": 64,
+    "FRAMECOUNT": 6535,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "ne oldu"
+  },
+  {
+    "ID": 22,
+    "RED": 219,
+    "GREEN": 224,
+    "BLUE": 234,
+    "FRAMECOUNT": 6656,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": ""
+  },
+  {
+    "ID": 23,
+    "RED": 215,
+    "GREEN": 223,
+    "BLUE": 228,
+    "FRAMECOUNT": 6777,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "meme gag"
+  },
+  {
+    "ID": 24,
+    "RED": 212,
+    "GREEN": 124,
+    "BLUE": 41,
+    "FRAMECOUNT": 6777,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": "bulmamiz gerek imposturu"
+  },
+  {
+    "ID": 25,
+    "RED": 219,
+    "GREEN": 222,
+    "BLUE": 233,
+    "FRAMECOUNT": 6898,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "meme egg"
+  },
+  {
+    "ID": 26,
+    "RED": 215,
+    "GREEN": 126,
+    "BLUE": 43,
+    "FRAMECOUNT": 7019,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": "yoksa yeniicez"
+  },
+  {
+    "ID": 27,
+    "RED": 211,
+    "GREEN": 127,
+    "BLUE": 44,
+    "FRAMECOUNT": 7140,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": "yoksa yenilicez"
+  },
+  {
+    "ID": 28,
+    "RED": 40,
+    "GREEN": 137,
+    "BLUE": 60,
+    "FRAMECOUNT": 7140,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "aynen"
+  },
+  {
+    "ID": 29,
+    "RED": 41,
+    "GREEN": 135,
+    "BLUE": 58,
+    "FRAMECOUNT": 7503,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "yesi olabiirmi"
+  },
+  {
+    "ID": 30,
+    "RED": 211,
+    "GREEN": 127,
+    "BLUE": 42,
+    "FRAMECOUNT": 7503,
+    "COLORNAME": "ORANGE",
+    "NAME": "",
+    "MESSAGE": "az once beyaz acik yesil demistio mu yoksa"
+  },
+  {
+    "ID": 31,
+    "RED": 34,
+    "GREEN": 136,
+    "BLUE": 54,
+    "FRAMECOUNT": 7745,
+    "COLORNAME": "GREEN",
+    "NAME": "",
+    "MESSAGE": "olabiir"
+  }
+  ]
+}

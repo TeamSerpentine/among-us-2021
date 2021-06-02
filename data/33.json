@@ -1,0 +1,23 @@
+{
+ "ChatMessages": [  {
+    "ID": 0,
+    "RED": 223,
+    "GREEN": 227,
+    "BLUE": 242,
+    "FRAMECOUNT": 2300,
+    "COLORNAME": "WHITE",
+    "NAME": "",
+    "MESSAGE": "Jemand Deutsch"
+  },
+  {
+    "ID": 1,
+    "RED": 157,
+    "GREEN": 6,
+    "BLUE": 23,
+    "FRAMECOUNT": 3026,
+    "COLORNAME": "RED",
+    "NAME": "",
+    "MESSAGE": "its pink"
+  }
+  ]
+}
