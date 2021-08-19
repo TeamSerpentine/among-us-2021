@@ -25,7 +25,7 @@ https://digi.bib.uni-mannheim.de/tesseract/
 
 ### setting variables
 
-After those two files are downloaded (and installed in the case of tessearct), you will need to set 3 variables in the framework.python
+After those two files are downloaded (and installed in the case of tessearct), you will need to set 3 variables in the settings.py
 
 
 **Tesseract_location** :  path to the install location of tesseract. Make sure to include the / at the end as well
