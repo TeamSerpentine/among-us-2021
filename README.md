@@ -6,6 +6,18 @@ This is the repository of the Among Us team
 from [E.S.A.I.V. Serpentine](https://www.serpentine.ai), and  is complementary to the paper titled [Automatically detecting player roles in Among Us](https://ieee-cog.org/2021/assets/papers/paper_249.pdf), which is published at the IEEE CoG 2021.
 The repository contains the framework, data, and machine learning models that were used to produce the results of the paper. 
 
+Paper citation: 
+
+```
+@inproceedings{tuin2021automatically,
+  title={Automatically detecting player roles in Among Us},
+  author={Tuin, Harro and Rooijackers, Martin},
+  booktitle={2021 IEEE Conference on Games (CoG)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
+```
 ## Framework
 The framework can extract data from videos with Among Us gameplay. The data used in the paper was extracted using the framework.
 
